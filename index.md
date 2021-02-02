@@ -10,29 +10,29 @@ Let's interview a real professional to find out!
 
 Hello! I have an educational background in the physical sciences and started my working career at university libraries. I have always used scripting and programming to do tasks - I progressed from writing helper scripts to being a member of a software development team.
 
-One day a recruiter called me, and suggested I try robotic process automation at an IT consultant company. There, as a developer, I helped build a new RPA business utilizing the Python/Robot Framework stack. Since that I have changed my workplace multiple times but often been involved in building up Python based automation businesses.
+One day a recruiter called me and suggested I try robotic process automation at an IT consultant company. There, as a developer, I helped build a new RPA business utilizing the Python/Robot Framework stack. Since that, I have changed my workplace multiple times but have often been involved in building up Python-based automation businesses.
 
 ## Knowing what you know now, what would you learn if you decided to become an automation professional?
 
-I highly encourage learning Python, as it is versatile, powerful and quite easy to learn. Having a computer science degree is absolutely not mandatory. Instead get some practical programming experience! Think if you could use a script to automate some work in your current job. Maybe you could use Python to do some Excel data processing for you?
+I highly encourage learning Python, as it is versatile, powerful, and quite easy to learn. Having a computer science degree is absolutely not mandatory. Instead, get some practical programming experience! Think if you could use a script to automate some work in your current job. Maybe you could use Python to do some Excel data processing for you?
 
-If you already know some programming, learn the best practices in software development. Automation is software development - and that is a good thing! You get access to the tried-and-true methods of the field, and the support of the community. I recommend learning about testing and clean code. Install a linter to your code editor which gives hints on how to improve your code.
+If you already know some programming, learn the best practices in software development. Automation is software development - and that is a good thing! You get access to the tried-and-true methods of the field and the support of the community. I recommend learning about testing and clean code. Install a linter to your code editor, which gives hints on how to improve your code.
 
 Test automation is closely related to process automation - I would say it's a natural career path to switch between the two.
 
 ## What does a "typical" workday look like from the point of an automation developer?
 
-Writing code, testing robots, and communicating with the customer. Open and frequent communication is essential if you want your robot to succeed - the specifications will change, and obstacles will emerge.
+Writing code, testing robots and communicating with the customer. Open and frequent communication is essential if you want your robot to succeed - the specifications will change, and obstacles will emerge.
 
 Testing the robot (both manually and automatically) is an integral part of the development workflow.
 
 ## What are some good things about being an automation professional?
 
-The work is often quite independent: you are given a problem and you can devise the best way to solve it. When using a real programming language like Python, you can learn a lot about software development and programming in general. You get introduced to a wide variety of technologies.
+The work is often quite independent: you are given a problem, and you can devise the best way to solve it. When using a real programming language like Python, you can learn a lot about software development and programming in general. You get introduced to a wide variety of technologies.
 
 ## How about the not-so-great things? It's not all rainbows and ponies, right? 🌈🦄
 
-A lot of legacy applications. This might actually be a good thing, as they are often quite stable and once you get the automation running, it will run.
+A lot of legacy applications. This might actually be a good thing, as they are often quite stable, and once you get the automation running, it will run.
 
 Poorly thought-out process definitions. The business is not always sure what they want automated, and sometimes the processes themselves are very fuzzy. Successful automation requires clearly defined boundaries and solid input data.
 
